@@ -1,0 +1,152 @@
+body {
+    background-color: #F4F4F2 !important;
+}
+
+h1 {
+    font-family: 'Arvo', serif;
+}
+
+h2 {
+    font-family: 'Arvo', serif; 
+    padding-bottom: 3%;
+}
+
+p {
+    font-family: 'Nunito', sans-serif;
+}
+
+/* Top Site */
+#site-top {
+    padding: 5% 5% 0;
+    font-family: 'Arvo', serif;
+}
+
+.topphotos {
+    padding-top: 3%;
+}
+
+.planepic {
+    width: 100%;
+    border: 1px outset #495464;
+}
+
+.waterfall {
+    width: 100%;
+    height: 92%;
+    border: 1px outset #495464;
+}
+
+/* Self Title */
+#self-tile {
+    padding: 0 5%;
+    text-align: end;
+}
+
+.selfpic {
+    width: 90%;
+    height: 100%;
+    border: 1px outset #495464;
+}
+
+/* Sun Voyager */
+.views {
+    padding: 0 5%;
+}
+
+.views h2 {
+    font-family: 'Arvo', serif;
+    text-align: end;
+    padding-left:30%;
+    padding-bottom: 1%;
+    margin-top: -15%;
+    margin-right: 5%;
+}
+
+.views h5 {
+    font-family: 'Nunito', sans-serif;
+    text-align: end;
+    padding-left:30%;
+    padding-bottom: 1%;
+    margin-right: 5%;
+}
+
+.sunvoyager {
+    width: 100%;
+    height:80%;
+    border: 1px outset #495464;
+}
+
+.leif {
+    width: 100%;
+    border: 1px outset #495464;
+    margin-top: -25%;
+}
+
+/* Quote Section */
+#quotation {
+    padding: 0 5%;
+}
+
+.quote {
+    padding-left: 30%;
+    text-align: end;
+}
+
+.church {
+    margin-left: 5%;
+    width: 95%;
+    height: 100%;
+    border: 1px outset #495464;
+}
+
+/* CV */
+.cv{
+    padding: 0 5%;
+}
+
+.cv h1 {
+    font-family: 'Arvo', serif;
+    margin-bottom: 10%;
+    text-align: end;
+}
+
+.cv h3, .cv li, .cv ul {
+    font-family: 'Nunito', sans-serif;
+    text-align: end;
+    padding-left:20%;
+    padding-bottom: 1%;
+    list-style: none;
+}
+
+.lambpic {
+    margin-left: 5%;
+    width: 90%;
+    height:95%;
+    border: 1px outset #495464;
+}
+
+/* Contact Us */
+.contactme {
+    padding: 0 5% 5%;
+}
+
+.contact h1 {
+    font-family: 'Arvo', serif;
+}
+
+.contactme h6 {
+    margin-bottom:0;
+    font-family: 'Nunito', sans-serif;
+    font-weight: bold;
+}
+
+.icepic {
+    width:100%;
+    border: 1px outset #495464;
+}
+
+.hutpic {
+    width:100%;
+    height:88%;
+    border: 1px outset #495464;
+}

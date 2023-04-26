@@ -1,0 +1,300 @@
+
+body {
+    background-color: #fff;
+}
+
+/* Heading */
+.heading {
+    background: linear-gradient(#FF884B, #FECD70);
+    padding: 6% 15%;
+}
+
+.headsect {
+    margin-top:5%;
+    text-align: center;
+    color: #FCFFE7;
+}
+
+.headsect h1 {
+    margin-top:15%;
+    font-family: 'Vidaloka', serif;
+    font-size: 2.5em;
+    font-weight:500;
+}
+
+.headsect h4 {
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 1.3em;
+    line-height: 2;
+    margin-bottom:5%;
+}
+
+.oryxRun {
+    width: 90%;
+    margin-top: -11%;
+}
+
+.container {
+    padding: 5% 15% 0;
+}
+
+/* Navbar */
+.nav-item {
+    padding: 0 5px;
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 1.1em;
+}
+
+.nav-item a:hover {
+    color:#FDEEDC;
+}
+
+.navbar-brand {
+    transform: translateX(0%);
+    left:-10%;
+    position: absolute;
+    width:87%;
+}
+
+/* Mission */
+.mission {
+    padding: 7% 15% 2%;
+    background-color: #FFE7BF;
+    position: relative;
+}
+
+.mission h1 {
+    font-family: 'Vidaloka', serif;
+    text-align: center;
+    color:#4A403A;
+    padding-bottom: 5%;
+}
+
+.mission p {
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 1.5em;
+    color:#4A403A;
+    padding-left: 5%; 
+    padding-right: 5%;
+}
+
+.sanddune {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 55%;
+    padding-bottom: 5%;
+}
+
+span {
+    color:#FF884B;
+}
+
+/*Word of Mouth */
+#carouselExampleIndicators {
+    padding: 0 5% 5%;
+    background-color: #FFE7BF;
+}
+
+.carousel-inner h3 {
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 1.5em;
+    color:#4A403A;
+    margin: 5% 17%;
+    line-height: 1.5;
+}
+
+/* Home Contact Section */
+#reachOut {
+    padding: 1% 0 7%;
+    background-color: #FFE7BF;
+}
+
+.namibdesert {
+    border-radius:50%;
+    width:90%;
+}
+
+/* Footer */
+#footer {
+    text-align: center;
+    padding: 3% 5%;
+    background: linear-gradient(#FECD70, #FF884B);
+    font-family: 'Ubuntu', sans-serif;
+    color:#FDEEDC;
+}
+
+.footer-link {
+    color:#FDEEDC;
+    padding: 0 8px;
+}
+
+.footer-link:hover {
+    color:#FFE7BF;
+}
+
+/* About Me */
+.aboutme {
+    background-color: #FFE7BF;
+    padding: 7% 8%;
+}
+
+.aboutme h1 {
+    font-family: 'Vidaloka', serif;
+    color:#4A403A;
+    font-size: 4em;
+}
+
+.aboutme h2 {
+    font-family: 'Ubuntu', sans-serif;
+    text-align: left;
+    color:#4A403A;
+}
+
+.aboutme h5, .aboutme h4 {
+    font-family: 'Ubuntu', sans-serif;
+    text-align: left;
+    color:#4A403A;
+    line-height: 2;
+    margin-bottom: 5%;
+}
+
+.aboutpic {
+    width:75%;
+}
+
+.namibphone {
+    width: 500px;
+    margin-bottom: 10%;
+}
+
+.deadvlei {
+    width:400px;
+}
+
+/* Services Page */
+.services {
+    padding: 7% 0;
+    background-color: #FFE7BF;
+}
+
+.services h1 {
+    text-align: center;
+    font-family: 'Vidaloka', serif;
+    color:#4A403A;
+}
+
+.services p {
+    font-family: 'Ubuntu', sans-serif;
+    color:#4A403A;
+    font-size: 1.2em;
+    line-height: 1.8;
+}
+
+.topspacingbox {
+    padding-top: 15px;
+}
+
+.spacingbox {
+    padding-top: 80px;
+}
+
+.futureWeb {
+    width: 90%;
+    margin-left: 10%;
+    margin-bottom:3%;
+}
+
+/* Project Card */
+.projectcard {
+    padding: 7% 5%;
+    background-color: #FFE7BF;
+}
+
+.projectcard h1 {
+    text-align: center;
+    font-family: 'Vidaloka', serif;
+    color:#4A403A;
+}
+
+.projectcard h2 {
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 1.5em;
+    color: #4A403A;
+    margin: 5% 0;
+}
+
+.capheader{
+    margin-bottom: 5%;
+}
+
+.caplist {
+    padding: 0 5%;
+    text-align: center;
+}
+
+.caplist h5 {
+    font-family: 'Vidaloka', serif;
+    text-align: center;
+    color: #4A403A;
+    text-decoration: underline;
+    padding-bottom: 10%;
+    font-weight: bold;
+    font-size: 2em;
+}
+
+.listpic {
+    width: 25%;
+    margin-bottom: 7%;
+}
+
+.accordion-body p {
+    font-family: 'Ubuntu', sans-serif;
+    color:#4A403A;
+    font-size: 1.5em;
+    text-align: center;
+}
+
+/* Contact Page */
+.contact {
+    padding: 7% 5%;
+    color: #4A403A;
+    background-color: #FFE7BF;
+}
+
+.processchart {
+    width: 75%;
+    border: 7px outset #FFAE6D;
+    margin-bottom: 5%;
+}
+
+.labeltype {
+    font-size: 1.5em;
+    font-family: 'Ubuntu', sans-serif;
+}
+
+label {
+    padding: 15px 0;
+}
+
+.contactform {
+    text-align: center;
+}
+
+.contact h1, h2, h4 {
+    text-align: center;
+    padding: 7px 0;
+}
+
+.contact h1, h2 {
+    font-family: 'Vidaloka', serif;
+}
+
+.contact h2 {
+    text-decoration: underline;
+}
+
+.safarideck {
+    width:40%;
+    margin: 2% 0 5%;
+}
